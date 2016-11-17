@@ -6,4 +6,5 @@ Meteor.startup(() => {
 
 Todos = new Mongo.Collection('todos');
 
+
 });
